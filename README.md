@@ -19,6 +19,8 @@ It performs basic arithmetic operations such as addition, subtraction, multiplic
 2. Open the project folder
 3. Run the Python file using:
 
+python virtual calculator.py
+
 ###output###
 ===================================
         VIRTUAL CALCULATOR
